@@ -1,0 +1,13 @@
+build*/
+Debug/
+Release/
+*.o
+*.obj
+*.exe
+*.user
+*.user.*
+ui_*.h
+moc_*
+qrc_*
+Makefile
+Makefile.*
